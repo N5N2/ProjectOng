@@ -1,4 +1,4 @@
-# ONG Conecta - Plataforma de Voluntariado
+# ONG Conecta - Plataforma de Voluntariado (Projeto acadêmico)
 
 > 
 ![ONG Conecta](https://img.shields.io/badge/Status-Concluído-green)
